@@ -44,7 +44,7 @@ Trust & clarity metrics — monitors dispute rates, explanation visibility, and 
 
 ## Key Installation:
 
-Ensure you have the following software and frameworks installed.
+Ensure you have the following software and frameworks installation.
 
 ## rerequisites:
 
