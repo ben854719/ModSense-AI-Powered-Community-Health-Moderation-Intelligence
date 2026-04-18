@@ -2,7 +2,7 @@
 
 ## Objective:
 
-This prototype is a spec driven Moderation Intelligence System that helps Reddit scale healthy communities without burning out moderators. It ingests live subreddit activity, modqueue items, and rule metadata to generate explainable, non authoritarian suggestions. Each recommendation includes a transparent rule trace and an RS256 signed record for auditability. In historical evaluations, it cut median time to first action by 42%, reduced repetitive low value actions by 35%, improved rule consistent decisions by 18%, and lowered disputes per 1,000 actions by 24%. Community trust also rose as the Fairness & Clarity score increased from 61% to 79%, demonstrating safer communities, reduced moderator workload, and a resilient, fully explainable system.
+This project is a spec driven Moderation Intelligence System that helps Reddit scale healthy communities without burning out moderators. It ingests live subreddit activity, modqueue items, and rule metadata to generate explainable, non authoritarian suggestions. Each recommendation includes a transparent rule trace and an RS256 signed record for auditability. In historical evaluations, it cut median time to first action by 42%, reduced repetitive low value actions by 35%, improved rule consistent decisions by 18%, and lowered disputes per 1,000 actions by 24%. Community trust also rose as the Fairness & Clarity score increased from 61% to 79%, demonstrating safer communities, reduced moderator workload, and a resilient, fully explainable system.
 
 ## Video of the project:
 
