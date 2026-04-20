@@ -6,6 +6,8 @@ This project is a spec driven Moderation Intelligence System that helps Reddit s
 
 ## Video of the project:
 
+https://github.com/user-attachments/assets/8c9f11d6-cec5-43d9-96ce-93c35fdd421c
+
 ## Key Features:
 
 Your Moderation Intelligence System presents a set of capabilities that highlight its focus on assistive safety engineering, agentic AI reasoning, and resilient, spec‑driven community infrastructure. These features emphasize operational clarity, measurable trust outcomes, and moderator‑centric design.
